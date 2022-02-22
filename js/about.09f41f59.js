@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(e,c,n){"use strict";n.r(c);var t=n("7a23"),a={class:"card"},o=Object(t["createElementVNode"])("div",{class:"card-body"},"Сайт разработан студентом 921 группы Абрамовым Юрией Олеговичем",-1),r=[o];function d(e,c){return Object(t["openBlock"])(),Object(t["createElementBlock"])("div",a,r)}var s=n("6b0d"),b=n.n(s);const i={},l=b()(i,[["render",d]]);c["default"]=l}}]);
+//# sourceMappingURL=about.09f41f59.js.map
